@@ -1,0 +1,6 @@
+{
+  "name": "المکه د چرګانود دانی تولیدي شرکت و بازار - Al-Makkah Poultry & Bazar",
+  "description": "سیستم جامع دیتابیس محلی، مدیریت کارخانه، فورمولاسیون دانه مرغ المکه و بازار محلی دکان‌های افغانستان با قابلیت اجرا در ورسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
